@@ -18,12 +18,11 @@
 4. `MUSIC_BOT_NAME` : A name for your  bot . Only in captial or small letters (not in style character)
 5. `MONGO_DB_URI` : MongoDB Database URL.
 6. `LOG_GROUP_ID` : Chat ID where bot will log everything. Use Group Chats Only.
-7. `STRING_SESSION` : Pyrogram string session for your assistant 1 . Take it values in [LG String Bot](https://t.me/lg_stringsessionbot)
-8. `STRING_SESSION2` : Pyrogram string session for your assistant 2 . Take it values in [LG String Bot](https://t.me/lg_stringsessionbot)
-9. `STRING_SESSION3` : Pyrogram string session for your assistant 3 . Take it values in [LG String Bot](https://t.me/lg_stringsessionbot)
-10. `STRING_SESSION4` : Pyrogram string session for your assistant 4 . Take it values in [LG String Bot](https://t.me/lg_stringsessionbot)
-11. `STRING_SESSION5` : Pyrogram string session for your assistant 5 . Take it values in [LG String Bot](https://t.me/lg_stringsessionbot)
-12. `OWNER_ID`: Owner ID of Bot
+7. `STRING_SESSION` : Pyrogram string session for your assistant 1 . Take it values in [String Bot](https://t.me/strsessionbot)
+8. `STRING_SESSION2` : Pyrogram string session for your assistant 2 . Take it values in [String Bot](https://t.me/strsessionbot)
+9. `STRING_SESSION3` : Pyrogram string session for your assistant 3 . Take it values in [String Bot](https://t.me/strsessionbot)
+10. `STRING_SESSION4` : Pyrogram string session for your assistant 4 . Take it values in [String Bot](https://t.me/strsessionbot)
+11. `STRING_SESSION5` : Pyrogram string session for your assistant 5 . Take it values in [String Bot](https://t.me/strsessionbot)
 13. `SUPPORT_GROUP` : https://t.me/Ourschennai
 14. `SUPPORT_CHANNEL` : https://t.me/Ourschennai
 15. `UPSTREAM_REPO` : https://github.com/GOD-OF-LOVE/OneloveMusic .
@@ -35,7 +34,7 @@
 
   <h4>to generate prrogram session!</h4>
   <p align="center">
-<a href="https://t.me/lg_stringsessionbot"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="245""/></a>
+<a href="https://t.me/strsessionbot"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="245""/></a>
  </p>
   
   ## Vps depoly
