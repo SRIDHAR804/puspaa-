@@ -9,9 +9,9 @@ import config
 from config import OWNER_ID
 from config import adminlist, chatstats, clean, userstats
 from strings import get_command
-from InsaneMusic import app, userbot
-from InsaneMusic.misc import SUDOERS
-from InsaneMusic.utils.database import (
+from OneloveMusic import app, userbot
+from OneloveMusic.misc import SUDOERS
+from OneloveMusic.utils.database import (
     get_active_chats,
     get_authuser_names,
     get_client,
