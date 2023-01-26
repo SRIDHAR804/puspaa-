@@ -1,187 +1,55 @@
-<h1 align="center"><b>❤️ ONE LOVE MUSIC BOT ❤️</b></h1>
+<h4>Click the button below to deploy  on heroku!</h4>
 
-<h4 align="center">Onelove A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
-
-<p align="center"><a href="https://t.me/"><img src="" width="400"></a></p>
+<p><a href="https://heroku.com/deploy"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 
-> ⭐️ Thanks to everyone for using Onelove, That is the greatest pleasure we have !
+   ## 🚀 Okteto Deployment
 
-### Onelove– History
-
-<a href="https://www.youtube.com"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
-
-
-## Features Of Onelove And Commands ❤️
-
-<details>
-<summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
-<br>
-
-- Thumbnail Support
-- Audio And Video
-- Gban User
-- Showing track names when skipping
-- Youtube, Local playback support
-- Settings panel
-- Control with buttons
-- Userbot auto join
-- Channel Music Play
-- Keyboard selection support for youtube play
-- Lyrics Scrapper
-- Unlimited Queue
-- Broadcast Bot
-- Statistic Collector
-- Block / Unblock (restrict user for using your bot)
-</details>
-
-#### Overall Basic Commands 😂
-<details>
-<summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
-<br>
-
-- `/play <song name>` - play song you requested
-- `/playlist` - Show now playing list
-- `/song <song name>` - download songs you want quickly
-- `/search <query>` - search videos on youtube with details
-- `/vsong <song name>` - download videos you want quickly
-- `/lyric <song name>` - lyrics scrapper
-- `/vk <song name>` - generate song without download
-</details>
-
-### Only Admin Can Exicute 🙄
-
-<details>
-<summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
-<br>
-
-- `/player` - open music player settings panel
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
-- `/ping` - check the bot ping status
-- `/auth` - authorized people to access the admin commands
-- `/deauth` - deauthorized people to access the admin commands
-</details>
-
-### Sudo Commands 🤭
-<details>
-<summary><b>sᴜᴅᴏ ᴄᴍᴅs ᴏɴʟʏ</b></summary>
-<br>
-
-- `/broadcast` - order the assistant to leave all groups
-- `/gban` - gban user
-</details>
-    
-### Only Owner 🙈
-<details>
-<summary><b>ᴏɴʟʏ ᴏᴡɴᴇʀ</b></summary>
-<br>
-
-- `/broadcast` - send a broadcast message from the bot
-- `/block` - block people for using your bot
-- `/unblock` - unblock people you blocked for using your bot
-- `/blocklist` - show the list of all people who's blocked for using your bot
-</details>
-
-
-</details>
-
-# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
-
-
-<details>
-<summary><b>ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs</b></summary>
-<br>
-    
-- [ᴘʏᴛʜᴏɴ𝟹.𝟿](https://www.python.org/downloads/release/python-390/)
-- [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ](https://docs.pyrogram.org/intro/setup#api-keys)
-- [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ](https://t.me/botfather)
-- [ᴍᴏɴɢᴏᴅʙ URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
-- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://t.me/StringGeneratorRobot)
-    
-</details>
-
-<details>
-<summary><b>sᴄᴀʟɪɴɢᴏ</b></summary>
-<br>
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ Onelove ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
-        
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/TheTeamOnelove/OneloveMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
-    
-</details>
-
-<details>
-<summary><b>sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
-<br>
-    
-> ʏᴏᴜ'ʟʟ ɴᴇᴇᴅ ᴀ ᴀᴘɪ_ɪᴅ & ᴀᴘɪ_ʜᴀsʜ ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴇssɪᴏɴ. 
-> ᴀʟᴡᴀʏs ʀᴇᴍᴇʙᴇʀ ᴛᴏ ᴜsᴇ ɢᴏᴏᴅ ᴀᴘɪ ᴄᴏᴍʙᴏ ᴇʟsᴇ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴄᴏᴜʟᴅ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ.
-
-<h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ʀᴇᴘʟ: </h4>    
-<p><a href="https://replit.com/@AssadAli/String-Session-Generator"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
-
-<h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
-<p><a href="https://t.me/Session_Generator_Robot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
-    
-</details>
-
-<details>
-<summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
-<br>
-
-> ʜᴇʀᴏᴋᴜ ʜᴀs ᴛᴡᴏ ᴠᴀʀs[ ʜᴇʀᴏᴋᴜ_ᴀᴘɪ_ᴋᴇʏ & ʜᴇʀᴏᴋᴜ_ᴀᴘᴘ_ɴᴀᴍᴇ ] ғᴏʀ ᴜᴘᴅᴀᴛᴇʀ ᴛᴏ ᴡᴏʀᴋ. 
-> ʙʏ sᴇᴛᴛɪɴɢ ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ, sᴇᴛ ᴠᴀʀ, ᴇᴅɪᴛ ᴠᴀʀ, ᴅᴇʟᴇᴛᴇ ᴠᴀʀs , ᴄʜᴇᴄᴋ ᴅʏɴᴏ ᴜsᴀɢᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙᴏᴛ. 
-> ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
-    
-<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTheTeamOnelove%2FOneloveMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
-</details>
-
-# Owner And Credit)
-<details>
-<summary><b>ᴄʀᴇᴅɪᴛ</b></summary>
-<br>
-
-## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
-
-
-</details>
-
-<details>
-<summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
-<br>
-
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ᴅᴇᴠɪʟ](https://t.me/its_devil_911)
-
-</details>
-
-<details>
-<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
-<br>
-
-# ❤️ Support<
-<a href="https://t.me/Onelove_Help365"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Ourschennai"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Onelove_Help365"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-
-</details>
-
-
-## ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs
-
-<details>
-<summary><b>ʟɪʙʀᴀʀɪᴇs</b></summary>
-<br>
-
-ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ Onelove:
-
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-</details>
+<h4>Click the button below to deploy  on Okteto!</h4>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/TeamVampir/SuperBotMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a></p>
 
 
 
+<h4>This is Variables thats filed in Okteto Platform!</h4>
 
+ 1. `API_ID` : Assistant Account Telegram API_ID, get it from my.telegram.org
+2. `API_HASH` : Assistant Account Telegram API_HASH, get it from my.telegram.org
+3. `BOT_TOKEN` : Your Telegram Bot Token, get it from @Botfather (Make sure Inline is turned On)
+4. `MUSIC_BOT_NAME` : A name for your  bot . Only in captial or small letters (not in style character)
+5. `MONGO_DB_URI` : MongoDB Database URL.
+6. `LOG_GROUP_ID` : Chat ID where bot will log everything. Use Group Chats Only.
+7. `STRING_SESSION` : Pyrogram string session for your assistant 1 . Take it values in [LG String Bot](https://t.me/lg_stringsessionbot)
+8. `STRING_SESSION2` : Pyrogram string session for your assistant 2 . Take it values in [LG String Bot](https://t.me/lg_stringsessionbot)
+9. `STRING_SESSION3` : Pyrogram string session for your assistant 3 . Take it values in [LG String Bot](https://t.me/lg_stringsessionbot)
+10. `STRING_SESSION4` : Pyrogram string session for your assistant 4 . Take it values in [LG String Bot](https://t.me/lg_stringsessionbot)
+11. `STRING_SESSION5` : Pyrogram string session for your assistant 5 . Take it values in [LG String Bot](https://t.me/lg_stringsessionbot)
+12. `OWNER_ID`: Owner ID of Bot
+13. `SUPPORT_GROUP` : https://t.me/
+14. `SUPPORT_CHANNEL` : https://t.me/
+15. `UPSTREAM_REPO` : https://github.com/ .
+16. `UPSTREAM_BRANCH` : MASTER
+17. `AUTO_LEAVING_ASSISTANT` : ture
+
+
+  ## 🚀 Generate string
+
+  <h4>to generate prrogram session!</h4>
+  <p align="center">
+<a href="https://t.me/lg_stringsessionbot"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="245""/></a>
+ </p>
+  
+  ## Vps depoly
+  
+  
+   1.      sudo apt-get update && sudo apt-get upgrade -y
+   2.      sudo apt-get install python3-pip ffmpeg -y
+   3.      sudo pip3 install -U pip
+   4.      curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+   5.      git clone https://github.com/GOD-OF-LOVE/OneloveMusic  &&  cd OneloveMusic
+   6.      pip3 install -U -r requirements.txt
+   7.      cp sample.env .env
+   8.      vi .env
+   9.      bash start
+  
+  
+  
