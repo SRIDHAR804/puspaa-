@@ -6,7 +6,7 @@
    ## 🚀 Okteto Deployment
 
 <h4>Click the button below to deploy  on Okteto!</h4>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/TeamVampir/SuperBotMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a></p>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/GOD-OF-LOVE/OneloveMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a></p>
 
 
 
@@ -24,11 +24,11 @@
 10. `STRING_SESSION4` : Pyrogram string session for your assistant 4 . Take it values in [LG String Bot](https://t.me/lg_stringsessionbot)
 11. `STRING_SESSION5` : Pyrogram string session for your assistant 5 . Take it values in [LG String Bot](https://t.me/lg_stringsessionbot)
 12. `OWNER_ID`: Owner ID of Bot
-13. `SUPPORT_GROUP` : https://t.me/
-14. `SUPPORT_CHANNEL` : https://t.me/
-15. `UPSTREAM_REPO` : https://github.com/ .
+13. `SUPPORT_GROUP` : https://t.me/Ourschennai
+14. `SUPPORT_CHANNEL` : https://t.me/Ourschennai
+15. `UPSTREAM_REPO` : https://github.com/GOD-OF-LOVE/OneloveMusic .
 16. `UPSTREAM_BRANCH` : MASTER
-17. `AUTO_LEAVING_ASSISTANT` : ture
+17. `AUTO_LEAVING_ASSISTANT` : true
 
 
   ## 🚀 Generate string
