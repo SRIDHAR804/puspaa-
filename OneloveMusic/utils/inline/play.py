@@ -1,7 +1,7 @@
 from pyrogram.types import InlineKeyboardButton
 
 import config
-from MusicBot.utils import time_to_sec
+from OneloveMusic.utils import time_to_sec
 
 
 def stream_markup_timer(_, videoid, chat_id, played, dur):
